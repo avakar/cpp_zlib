@@ -1,0 +1,7 @@
+[
+    {
+        type: 'git'
+        repo: 'https://github.com/madler/zlib.git'
+        commit: '50893291621658f355bc5b4d450a8d06a563053d'
+    }
+]
