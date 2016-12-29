@@ -3,7 +3,7 @@
   <Import Project="deps.props" />
   <ItemDefinitionGroup>
     <ClCompile>
-      <AdditionalIncludeDirectories>$(dep_b070feef_eef6_43ad_a456_4317cf4a66b1_zlib);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(dep_b070feef_eef6_43ad_a456_4317cf4a66b1_self)\include;$(dep_b070feef_eef6_43ad_a456_4317cf4a66b1_zlib);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
