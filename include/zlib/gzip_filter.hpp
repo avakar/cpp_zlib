@@ -2,6 +2,7 @@
 #define ZLIB_GZIP_FILTER_HPP
 
 #include <utility>
+#include <stdlib.h>
 
 struct gzip_filter final
 {
